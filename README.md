@@ -5,7 +5,7 @@
 
 - I'm studying **Computer Science**
 
-- 🔭 I’m currently working on [Rizza Flowershop Web and Mobile Application](https://github.com/buntman/FlowerShop)
+- 🔭 I’m currently working on [a Flowershop Web and Mobile Application](https://github.com/buntman/FlowerShop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
