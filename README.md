@@ -5,7 +5,7 @@
 
 - I'm studying **Computer Science**
 
-- 🔭 I’m currently working on [a Flowershop Web and Mobile Application](https://github.com/buntman/FlowerShop)
+- 🔭 I’m currently rewriting the backend of [a Flowershop Web and Mobile Application](https://github.com/buntman/FlowerShop) into Laravel.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
